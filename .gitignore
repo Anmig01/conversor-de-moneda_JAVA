@@ -1,0 +1,3 @@
+# Ignora los archivos java
+src/conversor_moneda/PruebasJPane.java
+bin/conversor_moneda/PruebasJPane.class
